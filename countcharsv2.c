@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-/* count chars in input; v2 */
+/*
+	count chars in input; v2
+	
+	Author: @buoyantair
+*/
 
 void main() {
 	double nc;

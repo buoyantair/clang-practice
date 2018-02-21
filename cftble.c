@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+*/
+	Author: @buoyantair
+*/
+
 void main() {
 	printf("Celsius-Fahrenheit Table\n");
 

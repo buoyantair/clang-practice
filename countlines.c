@@ -1,6 +1,9 @@
 #include <stdio.h>
 
-/* count lines in input */
+/*
+	count lines in input
+	Author: @buoyantair
+*/
 
 void main () {
 	int c, nl;

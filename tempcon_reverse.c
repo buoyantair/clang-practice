@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-/* print Fahrenheit Celsius table */
+/*
+	print Fahrenheit Celsius table
+	
+	Author: @buoyantair
+*/
 
 void main () {
 	int fahr;

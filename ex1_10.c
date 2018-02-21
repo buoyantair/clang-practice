@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/*
+	Author: @buoyantair
+*/
+
 void main() {
 	int c;
 

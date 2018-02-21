@@ -1,7 +1,11 @@
 #include <stdio.h>
 
-/* print Fahrenheit-Celsius Table 
-for fahr = 0, 20, ...., 300 */
+/*
+	print Fahrenheit-Celsius Table 
+	for fahr = 0, 20, ...., 300
+
+	Author: @buoyantair
+*/
 
 void main () {
 	printf("Fahrenheit-Celsius Table\n");

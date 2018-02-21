@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-/* copy input to output; v2 */
+/*
+	copy input to output; v2
+	
+	Author: @buoyantair
+*/
 
 void main() {
 	int c;
