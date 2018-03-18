@@ -13,7 +13,7 @@ void main() {
 	int nwordlen;
 	nwords = inword = nwordlen = 0;
 
-	while ((c = getchar()) != EOF)
+	while ((c = getchar()) != '.')
 		if(c == ' ' || c == '\n' || c == '\t' || c == '\r'){
 			inword = 0;
 			for (i = 0; i < nwordlen; ++i) {
